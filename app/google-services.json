@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "807030344674",
+    "firebase_url": "https://sublease-app.firebaseio.com",
+    "project_id": "sublease-app",
+    "storage_bucket": "sublease-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807030344674:android:2ec53c96c29fd7c8cc47bb",
+        "android_client_info": {
+          "package_name": "com.example.sublease_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "807030344674-sltehvb3kl6o6rpq179svg6f2ad3t19o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sublease_app",
+            "certificate_hash": "580dfd9191485a54fe30980c4513fb3e1974f20a"
+          }
+        },
+        {
+          "client_id": "807030344674-n00d975h8mr919k8d0tkciuo3430qqg8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_iXre8mEsdu2ktonmgXN8iUxq5d1-FyA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "807030344674-n00d975h8mr919k8d0tkciuo3430qqg8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
